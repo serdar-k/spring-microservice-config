@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome the bank application cards related local APIs - DOCKER!"
+  message: "Welcome the bank application cards related local APIs"
   contactDetails:
     name: "Serdar Korkmaz - Admin"
     email: "serdar@mail.com"
