@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome the bank application loans related production APIs"
+  message: "Welcome the bank application loans related prod APIs"
   contactDetails:
     name: "John Doe - Product Owner"
     email: "john@mail.com"
