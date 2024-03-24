@@ -3,7 +3,7 @@ build:
 
 # ACCOUNT, PREFIX OLARAK KULLANILIYOR
 accounts:
-  message: "Welcome the bank application accounts related prod APIs"
+  message: "Welcome the bank application accounts related production APIs"
   contactDetails:
     name: "John Doe - Product Owner"
     email: "john@mail.com"
